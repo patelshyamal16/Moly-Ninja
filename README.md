@@ -1,2 +1,2 @@
 # Moly-Ninja
-# Assets folder has the script folder in that folder it contains all the codes for the game 
+# Made this game over summer break and gain some experience in C# and Unity.
